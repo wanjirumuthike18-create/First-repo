@@ -1,1 +1,2 @@
 Hello i am Wanjiru Muthike and this is a text commit for this repository
+This is the modification made in 
